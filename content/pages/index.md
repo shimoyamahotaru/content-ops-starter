@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: 日本語で
+      text: 日本語
       color: text-dark
       type: TitleBlock
     subtitle: Subtitle goes here
